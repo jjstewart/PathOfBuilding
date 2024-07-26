@@ -1,5 +1,14 @@
 # Changelog
 
+## [v0.0.1](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v0.0.1) (2024/07/26)
+
+[Full Changelog](https://github.com/jjstewart/PathOfBuilding/commits/v0.0.1)
+
+<!-- Release notes generated using configuration in .github/release.yml at dev -->
+
+
+
+
 ## [v2.46.0](https://github.com/PathOfBuildingCommunity/PathOfBuilding/tree/v2.46.0) (2024/07/25)
 
 [Full Changelog](https://github.com/PathOfBuildingCommunity/PathOfBuilding/compare/v2.45.0...v2.46.0)
